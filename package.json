@@ -201,7 +201,7 @@
     "rxjs": "7.8.1",
     "semver": "7.7.2",
     "tabbable": "6.2.0",
-    "tldts": "7.0.1",
+    "tldts": "7.0.12",
     "ts-node": "10.9.2",
     "utf-8-validate": "6.0.5",
     "zone.js": "0.15.1",
